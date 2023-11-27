@@ -1,2 +1,2 @@
-# apps-hibridas-1
-Entrega de Parcial 1 de Aplicaciones Hibridas
+# apps-hibridas-2
+Entrega de API REST de Parcial 2 de Aplicaciones Hibridas
